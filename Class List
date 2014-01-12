@@ -1,0 +1,36 @@
+class Main ():
+  """
+  Main class, of course
+  To be completed by exec
+  """
+  
+class Game ():
+  """
+  If you think this needs a doc string, you shouldn't be reading the code.
+  To be completed by exec
+  """
+  
+class Tower ():
+  """
+  Tower
+  To be completed by Sam
+  """
+  
+class Bullet ():
+  """
+  Bullet.
+  To be completed by Marcel #apologies if I spelt your name wrong
+  """
+  
+class Enemy ():
+  """
+  Enemy
+  Ethan/ Clement
+  """
+  
+class Map ():
+  """
+  Map.
+  Jacob and somebody else. I forget who.
+  """
+  
